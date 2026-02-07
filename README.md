@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-diagonal-type-resolve-enum@esm/index.mjs';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-diagonal-type-resolve-enum@v0.0.1-esm/index.mjs';
 ```
 
 #### resolve( value )
@@ -106,7 +106,7 @@ var v = resolve( 'beep' );
 <body>
 <script type="module">
 
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-diagonal-type-resolve-enum@esm/index.mjs';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-diagonal-type-resolve-enum@v0.0.1-esm/index.mjs';
 
 var v = resolve( 'non-unit' );
 // returns <number>
