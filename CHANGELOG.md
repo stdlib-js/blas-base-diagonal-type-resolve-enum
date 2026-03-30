@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-30)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`62b8918`](https://github.com/stdlib-js/stdlib/commit/62b891876205c3de94b6528b4a43f59d3f7fdbab) - **bench:** refactor to use string interpolation in `blas/base/diagonal-type-resolve-enum` [(#11220)](https://github.com/stdlib-js/stdlib/pull/11220) _(by Kamal Singh Rautela)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Kamal Singh Rautela
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.1">
 
 ## 0.0.1 (2024-07-28)
