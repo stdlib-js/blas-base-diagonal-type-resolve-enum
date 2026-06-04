@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-26)
+## Unreleased (2026-06-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ec68ca7`](https://github.com/stdlib-js/stdlib/commit/ec68ca7cc35210db29a028d561ec71968e2ff753) - **docs:** fix TSDoc errors in `blas` declarations [(#12529)](https://github.com/stdlib-js/stdlib/pull/12529) _(by Philipp Burckhardt, Athan Reines)_
 -   [`62b8918`](https://github.com/stdlib-js/stdlib/commit/62b891876205c3de94b6528b4a43f59d3f7fdbab) - **bench:** refactor to use string interpolation in `blas/base/diagonal-type-resolve-enum` [(#11220)](https://github.com/stdlib-js/stdlib/pull/11220) _(by Kamal Singh Rautela)_
 
 </details>
@@ -24,9 +25,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Kamal Singh Rautela
+-   Philipp Burckhardt
 
 </section>
 
